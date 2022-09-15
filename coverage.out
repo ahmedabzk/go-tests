@@ -1,0 +1,7 @@
+mode: set
+github.com/ahmed/learningtests/main.go:8.12,10.15 2 0
+github.com/ahmed/learningtests/main.go:14.2,14.34 1 0
+github.com/ahmed/learningtests/main.go:10.15,13.3 2 0
+github.com/ahmed/learningtests/main.go:17.42,20.10 2 1
+github.com/ahmed/learningtests/main.go:23.2,25.20 2 1
+github.com/ahmed/learningtests/main.go:20.10,22.3 1 1
